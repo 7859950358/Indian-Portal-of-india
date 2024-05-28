@@ -1,5 +1,5 @@
 nav {
-    background-image: url(img/07.png);
+    background-image: url(07.png);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100px;
@@ -76,44 +76,44 @@ nav {
 
 @keyframes animate1 {
     0% {
-        background-image: url(img/09.jpeg);
+        background-image: url(09.jpeg);
         background-repeat: no-repeat;
         background-size: cover;
     }
 
     20% {
-        background-image: url(img/08.jpg);
+        background-image: url(08.jpg);
         background-repeat: no-repeat;
         background-size: cover;
     }
 
     40% {
-        background-image: url(img/10.jpg);
+        background-image: url(10.jpg);
         background-repeat: no-repeat;
         background-size: cover;
     }
 
     60% {
-        background-image: url(img/11.jpg);
+        background-image: url(11.jpg);
         background-repeat: no-repeat;
         background-size: cover;
     }
 
     80% {
-        background-image: url(img/12.jpg);
+        background-image: url(12.jpg);
         background-repeat: no-repeat;
         background-size: cover;
     }
 
     100% {
-        background-image: url(img/13.jpg);
+        background-image: url(13.jpg);
         background-repeat: no-repeat;
         background-size: cover;
     }
 }
 
 #div4 {
-    background-image: url(img/14.webp);
+    background-image: url(14.webp);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 70px;
@@ -317,7 +317,7 @@ nav {
 }
 
 #sect2 {
-    background-image: url(img/14.webp);
+    background-image: url(14.webp);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 500px;
